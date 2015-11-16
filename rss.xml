@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Daft Labs]]></title>
+        <description><![CDATA[Daft Labs]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 16 Nov 2015 21:16:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is the best software I've ever used.]]></title>
+            <description><![CDATA[<article><h1>This is the best software I've ever used.</h1><p>This is absolutley amazing/</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/760a3892-8b4f-4230-9b14-355c4fb47675.png"></article>]]></description>
+            <link>undefinedthis-is-the-best-software-ive-ever-used/index.html</link>
+            <guid isPermaLink="false">070f7fe2-6549-471d-a2f9-09edf853b3d1</guid>
+            <pubDate>Mon, 16 Nov 2015 21:16:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
